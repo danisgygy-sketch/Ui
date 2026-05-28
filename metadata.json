@@ -1,0 +1,6 @@
+{
+  "name": "AI Smart Tryout",
+  "description": "Interactive adaptive tryout application powered by Pak Rei AI with cloud-synced stats, PDF syllabus extraction, visual stimulus generators, and live chat tutoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
